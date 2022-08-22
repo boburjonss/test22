@@ -186,21 +186,23 @@
 
 // 12
 
-let a = +prompt('son1'),
-b = +prompt('son2'),
-c = +prompt('son3');
+// let a = +prompt('son1'),
+// b = +prompt('son2'),
+// c = +prompt('son3');
 
-if(a > b && b>c &&b>c){
-    console.log("3-chsi kichik");
-}
-else if(b > a && a>c &&b>c) {
-    console.log("2-chsi kichik");
-}
-else if(c > a && b>a &&c>a){
-    console.log("1");
-}
-else{
-    console.log("3ta manfiy va musbat son yoq");
-}
+// if(a > b && b>c &&b>c){
+//     console.log("3-chsi kichik");
+// }
+// else if(b > a && a>c &&b>c) {
+//     console.log("2-chsi kichik");
+// }
+// else if(c > a && b>a &&c>a){
+//     console.log("1");
+// }
+// else{
+//     console.log("3ta manfiy va musbat son yoq");
+// }
 
 
+
+// if-13

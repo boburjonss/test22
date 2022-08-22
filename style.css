@@ -4,3 +4,11 @@
     box-sizing: border-box;
 
 }
+body{
+    width: 100vw;
+    height: 100vh;
+    background: url(./img/Rectangle\ \(57\).png) no-repeat;
+    background-position: initial;
+    background-size: cover;
+    
+}
